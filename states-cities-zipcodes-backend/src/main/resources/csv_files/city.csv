@@ -1,0 +1,263 @@
+id;name;state_id
+1;Raoued;1
+2;Sidi Thabet;1
+3;Ariana Ville;1
+4;La Soukra;1
+5;Kalaat Landlous;1
+6;Ettadhamen;1
+7;Minhla;1
+8;Beja Nord;2
+9;Nefza;2
+10;Goubellat;2
+11;Mejez El Bab;2
+12;Amdoun;2
+13;Teboursouk;2
+14;Testour;2
+15;Thibar;2
+16;Beja Sud;2
+17;Ezzahra;3
+18;Mohamadia;3
+19;Rades;3
+20;El Mourouj;3
+21;Fouchana;3
+22;Hammam Chatt;3
+23;Hammam Lif;3
+24;Megrine;3
+25;Nouvelle Medina;3
+26;Mornag;3
+27;Bou Mhel El Bassatine;3
+28;Ben Arous;3
+29;Menzel Bourguiba;4
+30;Utique;4
+31;Menzel Jemil;4
+32;Bizerte Nord;4
+33;Bizerte Sud;4
+34;El Alia;4
+35;Sejnane;4
+36;Ghar el melh;4
+37;Ghezala;4
+38;Jarzouna;4
+39;Joumine;4
+40;Mateur;4
+41;Ras Jebel;4
+42;Tinja;4
+43;El Metouia;5
+44;Gabes Medina;5
+45;Gabes Ouest;5
+46;Gabes Sud;5
+47;El Hamma;5
+48;Nouvelle Matmata;5
+49;Mareth;5
+50;Ghannouche;5
+51;Matmata;5
+52;Menzel Habib;5
+53;Belkhir;6
+54;El Guettar;6
+55;El Ksar;6
+56;El Mdhilla;6
+57;Sned;6
+58;Moulares;6
+59;Redeyef;6
+60;Sidi Aich;6
+61;Gafsa Sud;6
+62;Metlaoui;6
+63;Gafsa Nord;6
+64;Fernana;7
+65;Ghardimaou;7
+66;Tabarka;7
+67;Jendouba;7
+68;Jendouba Nord;7
+69;Ain Drahem;7
+70;Oued Mliz;7
+71;Bou Salem;7
+72;Balta Bou Aouene;7
+73;Sbikha;8
+74;Kairouan Sud;8
+75;Oueslatia;8
+76;Nasrallah;8
+77;Kairouan Nord;8
+78;El Ala;8
+79;Hajeb El Ayoun;8
+80;Chebika;8
+81;Haffouz;8
+82;Cherarda;8
+83;Bou Hajla;8
+84;Haidra;9
+85;Sebeitla;9
+86;Mejel Bel Abbes;9
+87;Kasserine Nord;9
+88;El Ayoun;9
+89;Ezzouhour;9
+90;Feriana;9
+91;Foussana;9
+92;Hassi El Frid;9
+93;Jediliane;9
+94;Kasserine Sud;9
+95;Sbiba;9
+96;Thala;9
+97;Souk El Ahad;10
+98;Kebili Sud;10
+99;Kebili Nord;10
+100;Douz;10
+101;El Faouar;10
+102;Tajerouine;11
+103;Touiref;11
+104;Nebeur;11
+105;Sakiet Sidi Youssef;11
+106;Le Sers;11
+107;El Ksour;11
+108;Le Kef Est;11
+109;Dahmani;11
+110;Kalaat Sinane;11
+111;Jerissa;11
+112;Kalaa El Khasba;11
+113;Le Lef Ouest;11
+114;Melloulech;12
+115;Sidi Alouene;12
+116;Mahdia;12
+117;Souassi;12
+118;Ouled Chamakh;12
+119;Bou Merdes;12
+120;Chorbane;12
+121;Ksour Essaf;12
+122;Hbira;12
+123;La Chebba;12
+124;El Jem;12
+125;Borj El Amri;13
+126;Jedaida;13
+127;Oued Elil;13
+128;Tebourba;13
+129;El Battan;13
+130;Mannouba;13
+131;Mornaguia;13
+132;Douar Hicher;13
+133;Houmet Essouk;14
+134;Medenine Sud;14
+135;Beni Khedache;14
+136;Sidi Makhlouf;14
+137;Midoun;14
+138;Zarzis;14
+139;Medenine Nord;14
+140;Ben Guerdane;14
+141;Ajim;14
+142;Sayada Lamta Bou Hajar;15
+143;Ksibet El Mediouni;15
+144;Ksar Helal;15
+145;Jemmal;15
+146;Sahline;15
+147;Monastir;15
+148;Moknine;15
+149;Ouerdanine;15
+150;Teboulba;15
+151;Zeramdine;15
+152;Bekalta;15
+153;Bembla;15
+154;Beni Hassen;15
+155;Korba;16
+156;Soliman;16
+157;Tekelsa;16
+158;Menzel Bouzelfa;16
+159;Menzel Temime;16
+160;Nabeul;16
+161;Beni Khiar;16
+162;Beni Khalled;16
+163;Hammamet;16
+164;El Haouaria;16
+165;Kelibia;16
+166;Grombalia;16
+167;El Mida;16
+168;Bou Argoub;16
+169;Dar Chaabane Elfehri;16
+170;Hammam El Ghezaz;16
+171;EL Hencha;17
+172;Esskhira;17
+173;Ghraiba;17
+174;El Amra;17
+175;Bir Ali Ben Khelifa;17
+176;Agareb;17
+177;Sfax Ville;17
+178;Sakiet Eddaier;17
+179;Mahras;17
+180;Menzel Chaker;17
+181;Sfax Est;17
+182;Sfax Sud;17
+183;Jebeniana;17
+184;Kerkenah;17
+185;Sakiet Ezzit;17
+186;Ben Oun;18
+187;Bir El Haffey;18
+188;Jimla;18
+189;Cebbala;18
+190;Ouled Haffouz;18
+191;Mezzouna;18
+192;Regueb;18
+193;Sidi Bouzid Ouest;18
+194;Souk Jedid;18
+195;Sidi Bouzid Est;18
+196;Maknassy;18
+197;Menzel Bouzaiene;18
+198;Siliana Sud;19
+199;Sidi Bou Rouis;19
+200;Siliana Nord;19
+201;Gaafour;19
+202;Kesra;19
+203;Le Krib;19
+204;Bou Arada;19
+205;Bargou;19
+206;Makthar;19
+207;Rohia;19
+208;El Aroussa;19
+209;Sidi Bou Ali;20
+210;Sidi El Heni;20
+211;Sousse Jaouhara;20
+212;Sousse Riadh;20
+213;Sousse Ville;20
+214;Bou Ficha;20
+215;Akouda;20
+216;Hammam Sousse;20
+217;Kalaa Essghira;20
+218;Kondar;20
+219;Msaken;20
+220;Enfidha;20
+221;Hergla;20
+222;Kalaa El Kebira;20
+223;Sousse;20
+224;Tataouine Sud;21
+225;Bir Lahmar;21
+226;Dhehiba;21
+227;Ghomrassen;21
+228;Tatouine Nord;21
+229;Remada;21
+230;Smar;21
+231;Degueche;22
+232;Tozeur;22
+233;Hezoua;22
+234;Nefta;22
+235;Tameghza;22
+236;El Menzeh;23
+237;El Hrairia;23
+238;El Kabbaria;23
+239;El Kram;23
+240;Bab Souika;23
+241;Carthage;23
+242;Cité El Khadra;23
+243;Bab Bhar;23
+244;La Marsa;23
+245;Ezzouhour;23
+246;Jebel Jelloud;23
+247;Sidi El Bechir;23
+248;La Goulette;23
+249;Le Bardo;23
+250;El Omrane;23
+251;El Omrane Supérieur;23
+252;El Ouerdia;23
+253;Ettahrir;23
+254;Sidi Hassine;23
+255;Essijoumi;23
+256;La Medina;23
+257;Ennadhour;24
+258;El Fahs;24
+259;Bir Mcherga;24
+260;Zaghouan;24
+261;Hammam Zriba;24
+262;Saouef;24
